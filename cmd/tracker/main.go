@@ -11,7 +11,7 @@ import (
 
 func main() {
 	person := personaldata.Personal{
-		Name:   "Витя",
+		Name:   "Толян",
 		Weight: 84.6,
 		Height: 1.87,
 	}
@@ -40,7 +40,7 @@ func main() {
 	// // тренировки
 	actions := []string{
 		"3456,Ходьба,3h00m",
-		"something is wrong",
+		"ПонПонпоппнон",
 		"678,Бег,0h5m",
 		"1078,Бег,0h10m",
 		",3456 Ходьба",
